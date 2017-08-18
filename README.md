@@ -1,6 +1,6 @@
 # Graylog Collector Sidecar Module
 
-Installs and configures the collector-sidecar package for graylog. [![Build Status](https://travis-ci.org/tentwentyfour/puppet-graylog-collector-sidecar.svg?branch=master)](https://travis-ci.org/tentwentyfour/puppet-graylog-collector-sidecar)
+Installs and configures the collector-sidecar package for graylog. [![Build Status](https://travis-ci.org/mylivingweb/puppet-graylog-collector-sidecar.svg?branch=master)](https://travis-ci.org/tentwentyfour/puppet-graylog-collector-sidecar)
 
 
 #### Table of Contents
