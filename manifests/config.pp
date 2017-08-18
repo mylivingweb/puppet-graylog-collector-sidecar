@@ -23,6 +23,7 @@ class gcs::config {
   $conf_dir         = $::gcs::params::conf_dir
   $server_url       = $::gcs::server_url
   $tags             = $::gcs::tags
+  $node_id          = $::gcs::node_id
   $log_files        = $::gcs::log_files
   $update_interval  = $::gcs::update_interval
   $tls_skip_verify  = $::gcs::tls_skip_verify

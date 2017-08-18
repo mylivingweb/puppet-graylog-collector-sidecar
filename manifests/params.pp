@@ -20,6 +20,7 @@ class gcs::params {
   $enable           = true
   $install_service  = true
   $server_url       = undef
+  $node_id          = undef
   $tags             = []
   $package_version  = '0.1.3'
   $package_revision = 1
